@@ -6,9 +6,9 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Identificação
 
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Grupo: `[steam]`
+- Integrantes: `[Vitor Muniz de Aguiar, Luigi Masashi Matsushita, Felipe Mansour Valvassori, Gustavo Mendonça Scharman, Thiago Maiorino Grillo]`
+- Data: `[22/09/2026]`
 
 ## Preenchimento
 
