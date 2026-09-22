@@ -14,29 +14,29 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Acessibilidade em Sistemas e Soluções Digitais.]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[Como a acessibilidade terá impacto positivo no comércio de alimentos.]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `[Crucialidade da acessibilidade digital]`
+- Objeto estudado: `[Comércio digital de alimentos]`
+- Contexto ou aplicação: `[Implementação de melhorias para acessibilidade no varejo online de alimentos]`
+- Aspecto que será analisado: `[Dificuldade das pessoas com deficiência e idosos]`
+- O que ficará fora do estudo: `[]`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[Com incrementação da melhoria na acessibilidade, irá possibilitar não somente o aumento de vendas, mas também inclusão digital para aqueles que estão incapacitados, em adição, tal aprimoramento faria com que esse público tenha mais independência em realizar tarefas simples sozinhas. Em adição, um design acessível tornará benéfico também para o usuário comum, deixando mais fácil e intuitivo para todos.]`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `[Parcialmente]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim]`
 
 ## Produto da etapa
 
