@@ -36,4 +36,8 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Luigi Masashi Matsushita]` | `[Desenvolvimento do tema]` |
+| `[Vitor Muniz de Aguiar]` | `[Desenvolvimento do tema, pesquisa de artigos científicos]` |
+| `[Thiago Maiorino Grillo]` | `[Pesquisas sobre o tema]` |
+| `[Felipe Mansour Valvassori]` | `[Desenvolvimento do tema]` |
+| `[Gustavo Mendonça Scharman]` | `[Desenvolvimento do tema]` |
