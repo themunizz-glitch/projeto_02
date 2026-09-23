@@ -44,7 +44,7 @@ Pesquisas sobre o tema e verificação da disponibilidades de artigos científic
 
 ## Checklist
 
-- [Ok] O tema é específico.
+- [x] O tema é específico.
 - [Ok] O tema é relevante.
 - [Ok] O tema é viável.
 - [Ok] O recorte está claro.
