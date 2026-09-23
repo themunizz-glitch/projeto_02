@@ -45,10 +45,10 @@ Pesquisas sobre o tema e verificação da disponibilidades de artigos científic
 ## Checklist
 
 - [x] O tema é específico.
-- [Ok] O tema é relevante.
-- [Ok] O tema é viável.
-- [Ok] O recorte está claro.
-- [Ok] O tema foi validado pelo professor.
+- [x] O tema é relevante.
+- [x] O tema é viável.
+- [x] O recorte está claro.
+- [x] O tema foi validado pelo professor.
 
 ## Contribuições
 
