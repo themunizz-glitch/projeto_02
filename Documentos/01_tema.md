@@ -24,13 +24,13 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 - Tema amplo: `[Crucialidade da acessibilidade digital]`
 - Objeto estudado: `[Comércio digital de alimentos]`
-- Contexto ou aplicação: `[Implementação de melhorias para acessibilidade no varejo online de alimentos]`
-- Aspecto que será analisado: `[Dificuldade das pessoas com deficiência e idosos]`
-- O que ficará fora do estudo: `[]`
+- Contexto ou aplicação: `[Dificuldade das pessoas com deficiência e idosos no manuseio de sistemas]`
+- Aspecto que será analisado: `[Implementação de melhorias para acessibilidade no varejo online de alimentos]`
+- O que ficará fora do estudo: `[Dificuldade na implementação dessas melhorias]`
 
 ### Justificativa
 
-`[Com incrementação da melhoria na acessibilidade, irá possibilitar não somente o aumento de vendas, mas também inclusão digital para aqueles que estão incapacitados, em adição, tal aprimoramento faria com que esse público tenha mais independência em realizar tarefas simples sozinhas. Em adição, um design acessível tornará benéfico também para o usuário comum, deixando mais fácil e intuitivo para todos.]`
+`[Sugestão de melhorias na acessibilidade, irá possibilitar não somente o aumento de vendas, mas também inclusão digital para aqueles que estão incapacitados, em adição, tal aprimoramento faria com que esse público tenha mais independência em realizar tarefas simples sozinhas. Em adição, um design acessível tornará benéfico também para o usuário comum, deixando mais fácil e intuitivo para todos.]`
 
 ### Viabilidade
 
@@ -44,14 +44,18 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [Ok] O tema é específico.
+- [Ok] O tema é relevante.
+- [Ok] O tema é viável.
+- [Ok] O recorte está claro.
+- [Ok] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
+| `[Luigi Masashi Matsushita]` | `[Desenvolvimento do tema]` |
+| `[Vitor Muniz de Aguiar]` | `[Desenvolvimento do tema, pesquisa de artigos científicos]` |
+| `[nome]` | `[preencher]` |
+| `[nome]` | `[preencher]` |
 | `[nome]` | `[preencher]` |
