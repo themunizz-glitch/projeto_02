@@ -10,15 +10,15 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`[Todos os usuários tem facilidade para realizar uma compra?]`
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- O que se deseja descobrir ou compreender? `[Se há usuários com dificuldade em realizar uma compra]`
+- Qual é o objeto da pergunta? `[Descobrir o perfil dos usuários com dificuldades]`
+- Qual é o contexto ou recorte? `[Há indícios que pessoas com deficiências e idosos tem dificuldades em compreender ou utilizar um aplicativo]`
+- A pergunta pode ser respondida por artigos científicos? `[Sim. Há artigos que mostram dados de pesquisas sobre usuários com dificuldades em acessar aplicativos no meio digital.]`
+- Por que essa pergunta é relevante? `[Para compreender quem necessita de assistência e como o aplicativo pode se tornar acessível para esse publico]`
 
 ## Produto da etapa
 
