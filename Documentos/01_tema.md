@@ -40,7 +40,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Produto da etapa
 
-Tema delimitado e justificativa.
+Pesquisas sobre o tema e verificação da disponibilidades de artigos científicos já publicados.
 
 ## Checklist
 
