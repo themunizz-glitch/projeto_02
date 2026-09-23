@@ -23,9 +23,9 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[Dificuldades das pessoas no manuseio de tarefas digitais]` |
+| Objetivo geral | `[Identificar os principais aspectos que dificultam as pessoas incapacitadas na realização de compras e como elas podem ser resolvidas para se tornar acessível à todos?]` |
+| Resultado esperado | `[Uma inclusão maior para pessoas incapacitadas por meio de melhorias na acessibilidade em sites e aplicativos]` |
 
 ## Produto da etapa
 
