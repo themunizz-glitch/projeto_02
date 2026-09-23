@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`[Como a acessibilidade terá impacto positivo no comércio de alimentos.]`
 
 ## Pergunta de pesquisa
 
