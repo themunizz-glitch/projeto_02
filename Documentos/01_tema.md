@@ -56,6 +56,6 @@ Tema delimitado e justificativa.
 |---|---|
 | `[Luigi Masashi Matsushita]` | `[Desenvolvimento do tema]` |
 | `[Vitor Muniz de Aguiar]` | `[Desenvolvimento do tema, pesquisa de artigos científicos]` |
-| `[nome]` | `[preencher]` |
+| `[Thiago Maiorino Grillo]` | `[Pesquisas sobre o tema]` |
 | `[nome]` | `[preencher]` |
 | `[nome]` | `[preencher]` |
