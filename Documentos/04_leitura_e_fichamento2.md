@@ -8,21 +8,21 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `O COMÉRCIO ELETRÔNICO E O SERVIÇO DE DELIVERY DE ALIMENTOS NO PÓS-PANDEMIA: IMPACTOS NA SUSTENTABILIDADE PARA AS GERAÇÕES FUTURAS`
-* DOI ou URL: `https://ojs.uva.br/index.php/bancodeteses/article/view/940`
-* Base de origem: `Mudanças que ocorreu durante e pós pandemia em relação ao comércio digital.`
-* Leitor responsável: `Thiago Maiorino Grillo`
-* Data da leitura: `03/10/2026`
+* Referência completa: `Tecnologia assistiva e baixa visão: apps e recursos de acessibilidade em dispositivos móveis`
+* DOI ou URL: `https://doi.org/10.1590/2526-8910.ctoAO288437461`
+* Base de origem: `Recursos de acessibilidade que ainda faltam em dispositivos móveis.`
+* Leitor responsável: `Gustavo Mendonça Scharman`
+* Data da leitura: `04/10/2026`
 
 ## Fichamento
 
 ### Problema investigado
 
-`Com o acesso ao comércio digital intensificado durante a pandemia, foi levantado investigações sobre os impactos socioambientais afetados por isso.`
+``
 
 ### Objetivo do estudo
 
-`Verificar quais foram os impactos na sustentabilidade e na responsabilidade socioambiental referente ao uso intensificado de plásticos, logísticas de transportes urbanos e impactos digitais invisiveis.`
+`Dado que dispositivos móveis se tornaram a principal ferramenta que as pessoas utilizam no cotidiano, tem o objetivo de analisar e descrever como muitas pessoas desabilitadas começaram a usá-lo como um recurso de Tecnologia Assistiva (TA), além de pessoas com baixa visão.`
 
 ### Método utilizado
 
