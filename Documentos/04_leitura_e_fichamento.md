@@ -11,8 +11,8 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Referência completa: `\[preencher]`
 * DOI ou URL: `\[preencher]`
 * Base de origem: `\[preencher]`
-* Leitor responsável: `\[preencher]`
-* Data da leitura: `\[dd/mm/aaaa]`
+* Leitor responsável: `\Vitor Muniz de Aguiar`
+* Data da leitura: `\03/10/2026`
 
 ## Fichamento
 
