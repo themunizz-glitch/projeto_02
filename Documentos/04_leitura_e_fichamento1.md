@@ -8,45 +8,45 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `Examination of web-accessibility in the restaurant industry.`
-* DOI ou URL: `10.1080/15378020.2022.2051403`
-* Base de origem: `Acessibilidade em páginas de restaurantes.`
-* Leitor responsável: `Vitor Muniz de Aguiar`
+* Referência completa: `O COMÉRCIO ELETRÔNICO E O SERVIÇO DE DELIVERY DE ALIMENTOS NO PÓS-PANDEMIA: IMPACTOS NA SUSTENTABILIDADE PARA AS GERAÇÕES FUTURAS`
+* DOI ou URL: `https://ojs.uva.br/index.php/bancodeteses/article/view/940`
+* Base de origem: `Mudanças que ocorreu durante e pós pandemia em relação ao comércio digital.`
+* Leitor responsável: `Thiago Maiorino Grillo`
 * Data da leitura: `03/10/2026`
 
 ## Fichamento
 
 ### Problema investigado
 
-`Situação da acessibilidade em diversos sites de restaurantes e verificar se há erros em relação à eles.`
+`Com o acesso ao comércio digital intensificado durante a pandemia, foi levantado investigações sobre os impactos socioambientais afetados por isso.`
 
 ### Objetivo do estudo
 
-`Verificar sobre a acessibilidade nos sites de restaurantes locais e analisar os diferentes segmentos para a inclusão da acessibilidade.`
+`Verificar quais foram os impactos na sustentabilidade e na responsabilidade socioambiental referente ao uso intensificado de plásticos, logísticas de transportes urbanos e impactos digitais invisiveis.`
 
 ### Método utilizado
 
-`Foi utilizado AChecker para analisar o HTML e assim verificar o conteúdo, e foi utilizado "Web Content Accessibility Guideline 2.0" para analisar os erros comuns conhecidos.`
+`Foi entrevistado diversos consumidores de diferentes regiões e de diferentes perfis socioeconômicos, com a finalidade de obter visões e experiências diferentes uma das outras. `
 
 ### Contexto, amostra ou dados
 
-`Foi analisado 405 restaurantes no total, 180 restaurantes com estrela michelin, 125 restaurantes de franquia e 100 restaurantes locais.`
+`Por meio de dados estatísticos, foi apresentado que por conta da pandemia, as buscas por lazer, conveniência, segurança e personalização aumentou significamente.`
 
 ### Principais resultados
 
-`Foi mostrado que embora tenha alguns recursos de acessibilidade, alguns itens específicos não foram devidamente explicados ou foram mal detalhados, no entanto, restaurantes com estrela michelin no geral tiveram uma melhor acessibilidade digital.`
+`A pandemia teve um certo lado positivo no quesito de apresentar os perigos de um consumo desregulado e novas opções relacionados à integração entre consumo e corresponsabilidade diante aos agentes envolvidos.`
 
 ### Limitações apresentadas
 
-`Não foi explicitamente discutido quais critérios foram usados para analisar quais recursos não foram acessíveis suficiente e o motivo por trás delas.`
+`O desenvolvimento sustentável se apresenta incompatível sem restrições de delivery, principalmente pós pandemia onde somente aumentou ainda mais a demanda.`
 
 ### Contribuição para o nosso artigo
 
-`Já é um grande pulo para nosso artigo, pois já foi analisado mais de 400 sites de restaurantes e nos confirma o que já achávamos, que embora o restaurante seja extremamente famoso ou conhecido só localmente, ainda há necessidade na melhora da acessibilidade nos respectivos sites.`
+`Apresentou regulações e demandas implementadas ao longo do tempo para um comércio digital mais acessível, que conforme o comércio digital cresce, os usuários se sentem mais seguros no ambiente digital e as empresas investiram ainda mais nisso para atender a demanda.`
 
 ### Comentário crítico
 
-`Foi um artigo completo para a gente pois foi analisado o que a gente estava um pouco em dúvida e confirmou alguns temas que não havíamos tanta certeza, embora não deixe explicito quais critérios foram usados para a avaliação deles, ainda assim foi de grande ajuda.`
+`Artigo completo e sem comentários negativos, nos trouxe informações e regulamentações que foram implantadas durante a pandemia e como isso tem o impacto até hoje, o que nos faz analisar quais medidas de acessibilidade podem e devem ser implementadas nos dias de hoje.`
 
 
 ## Checklist
