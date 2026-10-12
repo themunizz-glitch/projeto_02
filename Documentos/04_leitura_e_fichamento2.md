@@ -18,7 +18,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-``
+`Identificar e caracterizar problemas e dificuldades nos aplicativos de acessibilidade para pessoas com baixa visão, tendo em mente o objetivo de analisar se a população tem se beneficiado com essas aplicações.`
 
 ### Objetivo do estudo
 
@@ -26,27 +26,27 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Método utilizado
 
-`Foi entrevistado diversos consumidores de diferentes regiões e de diferentes perfis socioeconômicos, com a finalidade de obter visões e experiências diferentes uma das outras. `
+`Foi participado desse estudo 28 pessoas nas quais haviam baixa visão. Foi coletado dados no espaço virtual do Whatsapp, entrevistados individualmente e os dados foram transcritos e analisados posteriormente.`
 
 ### Contexto, amostra ou dados
 
-`Por meio de dados estatísticos, foi apresentado que por conta da pandemia, as buscas por lazer, conveniência, segurança e personalização aumentou significamente.`
+`Os participantes afirmam que usam não utilizam somente recursos nativos do smartphone mas também aplicativos externos.`
 
 ### Principais resultados
 
-`A pandemia teve um certo lado positivo no quesito de apresentar os perigos de um consumo desregulado e novas opções relacionados à integração entre consumo e corresponsabilidade diante aos agentes envolvidos.`
+`Foi relatado que os participantes utilizam cerca de 50 aplicativos para auxiliar a baixa visão ao utilizar decentemente os dispositivos móveis, dentre eles o TA (Tecnologia Assistiva) e aproximadamente nove recursos que já eram integrados nos dispositivos.`
 
 ### Limitações apresentadas
 
-`O desenvolvimento sustentável se apresenta incompatível sem restrições de delivery, principalmente pós pandemia onde somente aumentou ainda mais a demanda.`
+`Embora tenha apresentados dados que possibilitam identificar o quão necessário se faz o uso desses recursos de acessibilidade, não foi apresentado quais são.`
 
 ### Contribuição para o nosso artigo
 
-`Apresentou regulações e demandas implementadas ao longo do tempo para um comércio digital mais acessível, que conforme o comércio digital cresce, os usuários se sentem mais seguros no ambiente digital e as empresas investiram ainda mais nisso para atender a demanda.`
+`Este artigo contribui não somente para auxiliar um recurso importante para a melhora da acessibilidade, mas também nos mostrou que não tínhamos recursos bons o suficiente para facilitar às pessoas necessitadas.`
 
 ### Comentário crítico
 
-`Artigo completo e sem comentários negativos, nos trouxe informações e regulamentações que foram implantadas durante a pandemia e como isso tem o impacto até hoje, o que nos faz analisar quais medidas de acessibilidade podem e devem ser implementadas nos dias de hoje.`
+`Embora não tenha apresentado especificamente os recursos que são utilizados, nos mostrou que é de importância uma atenção extra para as pessoas nas quais possui baixa visão, no entanto teríamos que nos aprofundar mais nesse quesito para solucionar uma melhora na nossa acessibilidade.`
 
 
 ## Checklist
