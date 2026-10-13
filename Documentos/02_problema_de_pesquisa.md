@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[Como a acessibilidade terá impacto positivo no comércio de alimentos.]`
+`[Como a acessibilidade terá impacto positivo no comércio digital.]`
 
 ## Pergunta de pesquisa
 
