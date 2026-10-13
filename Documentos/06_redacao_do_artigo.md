@@ -6,7 +6,7 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 # Título
 
-`\\\[Título claro e coerente com o tema]`
+`\\\[Acessibilidade digital no comércio de alimentos: barreiras e possibilidades de inclusão]`
 
 ## Palavras-chave
 
