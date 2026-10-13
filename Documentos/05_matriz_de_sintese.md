@@ -70,8 +70,8 @@ Dessa forma, uma possível lacuna para pesquisas futuras é investigar como as s
 
 ## Checklist
 
-- [x] Os artigos foram organizados por eixos temáticos.
-- [x] Foram identificadas convergências e divergências entre os estudos.
-- [x] As limitações foram relacionadas às diferenças de objetivos e escopo.
-- [x] As lacunas foram apresentadas como possibilidades de pesquisa futura.
-- [x] A síntese crítica relaciona os estudos sem afirmar que investigam diretamente o mesmo problema.
+- [ ] Os artigos foram organizados por eixos temáticos.
+- [ ] Foram identificadas convergências e divergências entre os estudos.
+- [ ] As limitações foram relacionadas às diferenças de objetivos e escopo.
+- [ ] As lacunas foram apresentadas como possibilidades de pesquisa futura.
+- [ ] A síntese crítica relaciona os estudos sem afirmar que investigam diretamente o mesmo problema.
