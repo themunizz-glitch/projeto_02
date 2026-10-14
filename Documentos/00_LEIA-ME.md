@@ -15,11 +15,12 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Curso e disciplina: `Ciência da Computação; Desing Profissional`
+- Professor ou orientador: `Isabella Luiza dos Santos Souza
+`
+- Grupo: `Steam`
+- Integrantes: `Vitor Muniz de Aguiar; Gustavo Mendonça Scharman; Luigi Masashi Matsushita; Thiago Maiorino Grillo; Felipe Mansour Valvassori`
+- Data de início: `22/09/2026`
 
 
 
